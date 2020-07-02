@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Monitor Panel</title>
+    <title>d40614130</title>
   </head>
   <body>
       <img src="panel.png" width="520" height="370" border="0" />
